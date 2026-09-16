@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" kty="widevine" drm_key="https://tv.media.jio.com/catchupproxy?provider=reliance&event=Event",test111
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.media.jio.com/catchupproxy?provider=reliance&event=Event
-https://iptv.jio.com/livetv/data/Disney_Channel_HD.mpd
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" kty="widevine" drm_key="https://tv.media.jio.com/catchupproxy?provider=reliance&event=Event",test112
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://tv.media.jio.com/catchupproxy?provider=reliance
-https://iptv.jio.com/livetv/data/Disney_Channel_HD.mpd
+#EXTINF:-1 tvg-id="1373" tvg-name="Disney" tvg-logo="https://img.media.jio.com/tvpimages/1/35/302071_1753185243638_l_medium.jpg" group-title="Kids",Disney
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
+https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/WDVLive/index.mpd
