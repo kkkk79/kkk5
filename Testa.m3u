@@ -1,9 +1,9 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="STAR SPORTS 1 SELECT HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7226/597226-h.jpg" group-title="Sports", STAR SPORTS 1 SELECT HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f64a24b3950468497390155c4880000:68f788aced6c4ecb89108f22fe9ee087
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@Premium Plugx(Android/15)
-https://livetv.hotstar.com/mp2/gec-india-1540065791/8bb5cd7a8e274186977473a6771d9352/index.mpd|cookie=hdntl=exp=1789702020~acl=%2f*~id=dc1baa2169677c55361bacba1e71fc76~data=hdntl~hmac=dbaf64507050733bc4fc2c9b9ce528375fb09d28cc6e4f6637f4432add42ce54
+#EXTM3U x-tvg-url=""
+# By @Premium Plug X
 
+#EXTINF:-1 tvg-name="JioHotstar By @Premium Plug X" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/470/1783938260470-h" group-title="Live", JioHotstar By @Premium Plug X
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar.dplus.tv/26.05.10.2 (Android/14; androidtv)
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1789831277~acl=%252f%2A~id=1dcb53f1abb05e9f638469625b99cfd5~data=hdntl~hmac=0a5bcfa69d6faa19e51cd722950631356a0b547199af6dd34d2a646fbcdf8044;hdnea=st=1789744776~exp=1789745376~acl=%2Fmp1%2Fgec-india-1540074047%2F22c4e4fc4e8c4a1897019c4c6ad698c2%2F%2A~data=ip=vVS0TY4scasrkHpavbQ1MM-userid=6hutDTJcyEFKdkGEL7flGvT7DzAChwUIoD7BGYBtxq1E-did=Acvlu3OpCb3I6zgjA7VDwl1Mhj6gf1F33SIagwZlG6mk-cc=in-bl=jhs-sp=HotstarBundle-ctype=live_tv-de=6-pl=web-ap=26.08.27.0-ut=paid-~hmac=2d289af623b5a0b1ac8af6f6dda580b71dcb53f1abb05e9f638469625b99cfd5
+https://livetv.hotstar.com/mp1/gec-india-1540074047/22c4e4fc4e8c4a1897019c4c6ad698c2/index.mpd
